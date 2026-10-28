@@ -23,7 +23,7 @@ ScreenShoter是一个轻量级的 Chrome 浏览器扩展，允许在网页上选
 
 1. 下载此代码库的 ZIP 文件或使用 Git 克隆
    ```bash
-   git clone https://github.com/DearVinking/screenshoter.git
+   git clone https://github.com/VinkingMeow/screenshoter.git
    ```
 2. 在 Chrome 浏览器中打开 `chrome://extensions/`
 3. 开启右上角的"开发者模式"
